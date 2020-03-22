@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Memory Master</string>
+    <string name="button">Start Game</string>
+    <string name="Text1">Challange Accepted!</string>
+    <string name="editText">Enter Your Game</string>
+    <string name="comeback">Try Again</string>
+    <string name="trigo">Trıgonometry</string>
+    <string name="derivative">Derıvatıve</string>
+    <string name="ıntegral">Integral</string>
+
+</resources>
